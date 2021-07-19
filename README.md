@@ -1,5 +1,5 @@
 # ABSArchive
-An archive of the Automatic Bing Searches extension that was removed from the chrome web store.
+An archive of the Automatic Bing Searches extension for Microsoft Rewards that was removed from the Chrome Web Store.
 Works on Firefox as a debug extension as well.
 
 This extension can...
