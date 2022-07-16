@@ -5,5 +5,5 @@ Works on Firefox as a debug extension as well.
 This extension can...
 - Do every category of daily search
 - Automatically complete regular and this or that quizzes
-- Schedule opening reward tasks and running searches
+- ~~Schedule opening reward tasks and running searches~~ ( BROKEN )
 - Search with google trends, custom searches, or random letters
